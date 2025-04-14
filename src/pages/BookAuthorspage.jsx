@@ -19,12 +19,12 @@ const BookAuthorspage = () => {
               Best AI Agent for Book Authors
             </h1>
             <p className="font-sans antialiased text-base md:text-lg lg:text-xl text-white/80 font-normal">
-              GaliChat is the 24/7 AI support assistant designed to help book authors automate the interactions with
+            ZenChat is the 24/7 AI support assistant designed to help book authors automate the interactions with
               their readers.
             </p>
             <div className="text-center">
               <p className="font-sans antialiased text-base text-white mb-10">
-                <strong>Try GaliChat</strong> now!
+                <strong>Try ZenChat</strong> now!
               </p>
               <a
                 href="/chats"
@@ -170,7 +170,7 @@ const BookAuthorspage = () => {
             Effortless AI Engagement for Authors
           </h2>
           <p className="font-sans antialiased text-base md:text-lg max-w-2xl text-white/60 mx-auto">
-            When you write books articles, connecting with readers and promoting your work can be challenging. GaliChat
+            When you write books articles, connecting with readers and promoting your work can be challenging. ZenChat
             is here to help authors manage reader interactions seamlessly.{" "}
           </p>
         </div>
@@ -199,7 +199,7 @@ const BookAuthorspage = () => {
                 Seamless Integration
               </h6>
               <p className="font-sans antialiased text-base block text-white/60 max-w-sm mx-auto">
-                Skip the complicated setup—simply add a single script to your electronics website, and GaliChat is ready
+                Skip the complicated setup—simply add a single script to your electronics website, and ZenChat is ready
                 to engage with your customers instantly.
               </p>
             </div>
@@ -257,7 +257,7 @@ const BookAuthorspage = () => {
                 Personalized AI Experience
               </h6>
               <p className="font-sans antialiased text-base block text-white/60 max-w-sm mx-auto">
-                Adjust GaliChat's tone, responses, and communication style to reflect your brand identity, creating a
+                Adjust ZenChat's tone, responses, and communication style to reflect your brand identity, creating a
                 more natural and engaging customer interaction.
               </p>
             </div>
@@ -286,7 +286,7 @@ const BookAuthorspage = () => {
                 Real-Time Assistance
               </h6>
               <p className="font-sans antialiased text-base block text-white/60 max-w-sm mx-auto">
-                Eliminate delays—GaliChat delivers instant, relevant product information, keeping customers engaged and
+                Eliminate delays—ZenChat delivers instant, relevant product information, keeping customers engaged and
                 reducing the risk of abandoned sales.
               </p>
             </div>
@@ -322,7 +322,7 @@ const BookAuthorspage = () => {
               Smart AI Recommendations
             </h3>
             <p className="font-sans antialiased text-base md:text-lg mb-4 text-neutral-500">
-              GaliChat does more than just support; it actively engages with website visitors, collects their
+            ZenChat does more than just support; it actively engages with website visitors, collects their
               information, and directs them to purchase your book.
             </p>
             <div className="flex flex-col space-y-4">
@@ -342,7 +342,7 @@ const BookAuthorspage = () => {
                   </svg>
                 </div>
                 <span className="text-neutral-500">
-                  <span className="font-semibold text-neutral-900">Promote Book Events Signings:</span> GaliChat can
+                  <span className="font-semibold text-neutral-900">Promote Book Events Signings:</span> ZenChat can
                   inform visitors about upcoming book signings, virtual Q A sessions, and launch events, encouraging
                   them to participate.
                 </span>
@@ -383,7 +383,7 @@ const BookAuthorspage = () => {
                   </svg>
                 </div>
                 <span className="text-neutral-500">
-                  <span className="font-semibold text-neutral-900">Exclusive Offers: </span> GaliChat can offer discount
+                  <span className="font-semibold text-neutral-900">Exclusive Offers: </span> ZenChat can offer discount
                   codes, limited-time deals, helping you build a stronger connection with potential readers.
                 </span>
               </div>
@@ -443,7 +443,7 @@ const BookAuthorspage = () => {
                   </svg>
                 </div>
                 <span className="text-neutral-500">
-                  <span className="font-semibold text-neutral-900">Automated Lead Collection: </span>GaliChat gathers
+                  <span className="font-semibold text-neutral-900">Automated Lead Collection: </span>ZenChat gathers
                   visitor details like names and emails, allowing you to follow up with personalized offers,
                   newsletters, or exclusive book updates.
                 </span>
@@ -485,7 +485,7 @@ const BookAuthorspage = () => {
                   </svg>
                 </div>
                 <span className="text-neutral-500">
-                  <span className="font-semibold text-neutral-900">Targeted Promotions Upselling: </span> GaliChat can
+                  <span className="font-semibold text-neutral-900">Targeted Promotions Upselling: </span> ZenChat can
                   suggest special discounts, signed editions, or bundles, maximizing your sales opportunities and
                   increasing reader engagement.
                 </span>
@@ -557,7 +557,7 @@ const BookAuthorspage = () => {
                 </div>
                 <span className="text-neutral-500">
                   <span className="font-semibold text-neutral-900">Instant Access, No Installation:</span> Share your
-                  GaliChat link on social media, your website, or in newsletters, allowing readers to interact with your
+                  ZenChat link on social media, your website, or in newsletters, allowing readers to interact with your
                   AI Agent without needing to download or install anything.
                 </span>
               </div>
@@ -578,7 +578,7 @@ const BookAuthorspage = () => {
                 </div>
                 <span className="text-neutral-500">
                   <span className="font-semibold text-neutral-900">Cross-Platform Compatibility:</span> Whether through
-                  emails, blog posts, or even QR codes at live events, your GaliChat link makes it easy for potential
+                  emails, blog posts, or even QR codes at live events, your ZenChat link makes it easy for potential
                   readers to engage anytime, anywhere.
                 </span>
               </div>
@@ -599,7 +599,7 @@ const BookAuthorspage = () => {
                 </div>
                 <span className="text-neutral-500">
                   <span className="font-semibold text-neutral-900">Effortless Community Engagement:</span> Use your
-                  GaliChat link in fan groups, book clubs, or online forums, keeping your audience informed, excited,
+                  ZenChat link in fan groups, book clubs, or online forums, keeping your audience informed, excited,
                   and connected to your latest updates.
                 </span>
               </div>
@@ -670,7 +670,7 @@ const BookAuthorspage = () => {
             What Shopify Store Owners Are Saying
           </h1>
           <p className="font-sans antialiased text-base md:text-lg text-neutral-500 max-w-3xl mx-auto mb-10">
-            See how Shopify merchants use GaliChat AI Agents to automate support, boost sales, and provide 24/7 customer
+            See how Shopify merchants use ZenChat AI Agents to automate support, boost sales, and provide 24/7 customer
             service.
           </p>
         </div>
@@ -685,7 +685,7 @@ const BookAuthorspage = () => {
               <p className="font-sans antialiased text-base md:text-lg text-current font-semibold">Sarah Chen</p>
               <p className="font-sans antialiased text-base text-neutral-500">Fashion Boutique Owner</p>
               <blockquote className="font-sans antialiased text-base text-neutral-500 md:text-lg mt-4 mb-6  mx-auto max-w-lg">
-                "GaliChat AI Agent has transformed how we handle customer inquiries. It recommends perfect outfit
+                "ZenChat AI Agent has transformed how we handle customer inquiries. It recommends perfect outfit
                 combinations, answers sizing and other questions 24/7. Our customer satisfaction has improved
                 significantly while reducing our support workload."
               </blockquote>

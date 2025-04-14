@@ -46,11 +46,11 @@ function Footer() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-8">
             {/* Brand Section */}
             <div className="lg:col-span-1">
-              <h2 className="text-xl font-bold">GaliChat</h2>
+              <h2 className="text-xl font-bold">ZenChat</h2>
               <p className="mt-4 text-gray-600 text-sm">
                 Your 24/7 AI Support Assistant that helps you to grow your business.
               </p>
-              <p className="mt-4 text-gray-500 text-xs">All rights reserved. Copyright © 2025 GaliChat</p>
+              <p className="mt-4 text-gray-500 text-xs">All rights reserved. Copyright © 2025 ZenChat</p>
             </div>
   
             {/* Usecases Section */}

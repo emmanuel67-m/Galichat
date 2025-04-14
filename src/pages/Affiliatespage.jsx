@@ -4,9 +4,9 @@ import Navbar from "../components/Navbarpage";
 
 const Affiliatespage = () => {
     return (
-        <div className="relative min-h-full w-full bg-[url('/header-bg.jpg')] bg-contain lg:bg-cover bg-no-repeat">
+        <div className="relative min-h-full w-full bg-[url('https://www.galichat.com/header-bg.jpg')] bg-contain lg:bg-cover bg-no-repeat">
             <Navbar/>
-            <div class="relative min-h-full w-full bg-[url('/header-bg.jpg')] bg-contain lg:bg-cover bg-no-repeat">
+            <div class="relative min-h-full w-full bg-[url('https://www.galichat.com/header-bg.jpg')] bg-contain lg:bg-cover bg-no-repeat">
   <div class="relative z-10 grid min-h-full px-8">
     <div class="container relative pt-40 pb-36 my-auto mx-auto text-center">
       <h1 class="block antialiased tracking-normal font-sans text-5xl leading-tight text-blue-gray-900 font-extrabold">
@@ -27,7 +27,7 @@ const Affiliatespage = () => {
              {/* Every Industry section */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 ">
         <h3 className="text-4xl font-bold text-center mb-4">
-          Adaptable AI ChatGPT for Make money with GaliChat. Become our affiliate.
+          Adaptable AI ChatGPT for Make money with ZenChat. Become our affiliate.
         </h3>
         <p className="text-center text-gray-600 mb-12 max-w-3xl mx-auto">
           Our easy-to-use AI Agent can be easily implemented by businesses across all sectors.
@@ -121,7 +121,7 @@ const Affiliatespage = () => {
           Make Referrals
         </h3>
         <p class="block antialiased font-sans text-base font-light leading-relaxed mt-3 text-gray-600">
-          Add your unique GaliChat links in your blog posts, social media, or other promotional content. This way, any traffic you send will be registered and commissioned.
+          Add your unique ZenChat links in your blog posts, social media, or other promotional content. This way, any traffic you send will be registered and commissioned.
         </p>
       </div>
     </div>
@@ -136,7 +136,7 @@ const Affiliatespage = () => {
           Get Paid
         </h3>
         <p class="block antialiased font-sans text-base font-light leading-relaxed mt-3 text-gray-600">
-          When a sale is made through a GaliChat affiliate link, you will earn 30% of the sale each month for up to 12 months, as long as the subscription continues. You can check all of your earnings in the dashboard.
+          When a sale is made through a ZenChat affiliate link, you will earn 30% of the sale each month for up to 12 months, as long as the subscription continues. You can check all of your earnings in the dashboard.
         </p>
       </div>
       <div class="w-full md:w-6/12 mt-10 md:mt-0 flex justify-end">
@@ -162,10 +162,10 @@ const Affiliatespage = () => {
       
       <div class="relative flex flex-col bg-clip-border rounded-xl bg-white text-gray-700 mb-6">
         <h4 class="block antialiased tracking-normal font-sans text-2xl font-semibold leading-snug text-blue-gray-900 pb-6">
-          What is Gali?
+          What is Zen?
         </h4>
         <p class="block antialiased font-sans text-base leading-relaxed font-normal !text-gray-500">
-          Gali is an advanced, smart AI Agent designed with the latest technology to interact with users by understanding their questions and providing accurate answers. It can comprehend and respond to inquiries in real-time, 24 hours a day, seven days a week.
+          Zen is an advanced, smart AI Agent designed with the latest technology to interact with users by understanding their questions and providing accurate answers. It can comprehend and respond to inquiries in real-time, 24 hours a day, seven days a week.
         </p>
       </div>
 
@@ -175,7 +175,7 @@ const Affiliatespage = () => {
           Am I able to become a partner?
         </h4>
         <p class="block antialiased font-sans text-base leading-relaxed font-normal !text-gray-500">
-          We offer an affiliate partnership program open to any individual or business with clients or users who own websites and can integrate GaliChat.
+          We offer an affiliate partnership program open to any individual or business with clients or users who own websites and can integrate ZenChat.
         </p>
       </div>
 
@@ -185,7 +185,7 @@ const Affiliatespage = () => {
           How do I add GaliChat to a website?
         </h4>
         <p class="block antialiased font-sans text-base leading-relaxed font-normal !text-gray-500">
-          To add Gali Chat to your website, you need to create an account, customize your AI Agent, and then copy the code snippet provided to your website’s HTML. The AI Agent will then be live on your website, ready to assist your customers.
+          To add Zen Chat to your website, you need to create an account, customize your AI Agent, and then copy the code snippet provided to your website’s HTML. The AI Agent will then be live on your website, ready to assist your customers.
         </p>
       </div>
 

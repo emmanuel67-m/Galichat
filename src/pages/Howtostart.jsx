@@ -6,7 +6,7 @@ function Howtostart() {
     return(
         <>
         <Navbar/>
-        <section class="relative min-h-full w-full bg-[url('/header-bg-blob2.jpg')] bg-top bg-cover bg-no-repeat">
+        <section class="relative min-h-full w-full bg-[url('https://www.galichat.com/header-bg.jpg')] bg-top bg-cover bg-no-repeat">
   <div class="grid min-h-full relative z-10">
     <div class="container relative py-24 md:py-40 my-auto mx-auto text-center">
       <div class="relative items-center font-sans font-bold whitespace-nowrap select-none border border-gray-900 py-1.5 px-3 text-xs capitalize inline-flex rounded-full bg-black text-white mb-4" >
@@ -16,7 +16,7 @@ function Howtostart() {
         How to Create an AI Agent - Getting Started
       </h1>
       <p class="block antialiased font-sans text-xl font-normal leading-relaxed text-gray-700 mt-2 lg:px-56">
-        Get started with GaliChat's AI Agent for lead generation &amp; customer support. Learn how to use our service effectively.
+        Get started with ZenChat's AI Agent for lead generation &amp; customer support. Learn how to use our service effectively.
       </p>
     </div>
   </div>
@@ -51,7 +51,7 @@ function Howtostart() {
 
       <section id="1---signup">
         <h2>1 - Signup</h2>
-        <p>You can signup at <a href="https://galichat.com/signup">www.galichat.com/signup</a></p>
+        <p>You can signup at <a href="https://galichat.com/signup">www.ZenChat.com/signup</a></p>
         <img src="https://www.galichat.com/signup-page.png" alt="signup page" class="w-full max-w-2xl h-auto mx-auto my-4 rounded-lg" />
         <p>Use Google login or email/password. If you already have an account, go to <a href="https://galichat.com/signin">signin</a>.</p>
       </section>
@@ -168,10 +168,10 @@ function Howtostart() {
       
       <div class="relative flex flex-col bg-clip-border rounded-xl bg-white text-gray-700 mb-6">
         <h4 class="block antialiased tracking-normal font-sans text-2xl font-semibold leading-snug text-blue-gray-900 pb-6">
-          What is Gali?
+          What is Zen?
         </h4>
         <p class="block antialiased font-sans text-base leading-relaxed font-normal !text-gray-500">
-          Gali is an advanced, smart AI Agent designed with the latest technology to interact with users by understanding their questions and providing accurate answers. It can comprehend and respond to inquiries in real-time, 24 hours a day, seven days a week.
+          Zen is an advanced, smart AI Agent designed with the latest technology to interact with users by understanding their questions and providing accurate answers. It can comprehend and respond to inquiries in real-time, 24 hours a day, seven days a week.
         </p>
       </div>
 
@@ -181,17 +181,17 @@ function Howtostart() {
           Am I able to become a partner?
         </h4>
         <p class="block antialiased font-sans text-base leading-relaxed font-normal !text-gray-500">
-          We offer an affiliate partnership program open to any individual or business with clients or users who own websites and can integrate GaliChat.
+          We offer an affiliate partnership program open to any individual or business with clients or users who own websites and can integrate ZenChat.
         </p>
       </div>
 
       
       <div class="relative flex flex-col bg-clip-border rounded-xl bg-white text-gray-700 mb-6">
         <h4 class="block antialiased tracking-normal font-sans text-2xl font-semibold leading-snug text-blue-gray-900 pb-6">
-          How do I add GaliChat to a website?
+          How do I add ZenChat to a website?
         </h4>
         <p class="block antialiased font-sans text-base leading-relaxed font-normal !text-gray-500">
-          To add Gali Chat to your website, you need to create an account, customize your AI Agent, and then copy the code snippet provided to your website’s HTML. The AI Agent will then be live on your website, ready to assist your customers.
+          To add Zen Chat to your website, you need to create an account, customize your AI Agent, and then copy the code snippet provided to your website’s HTML. The AI Agent will then be live on your website, ready to assist your customers.
         </p>
       </div>
 

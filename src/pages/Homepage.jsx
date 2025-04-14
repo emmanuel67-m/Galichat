@@ -199,7 +199,7 @@ function Home() {
 
       <section class="py-16 px-4 sm:px-48 lg:px-28">
   <div class="mb-24">
-    <p class="block antialiased font-sans font-semibold text-gray-900 text-lg mb-2">Gali Features</p>
+    <p class="block antialiased font-sans font-semibold text-gray-900 text-lg mb-2">Zen Features</p>
     <h2 class="block antialiased tracking-normal font-sans text-4xl leading-[1.3] mb-2 font-extrabold text-gray-900">
       Help Your Customers Through AI
     </h2>
@@ -419,7 +419,7 @@ function Home() {
           Train Advanced GPT
         </h3>
         <p class="block antialiased font-sans font-light mx-auto mt-2 mb-8 text-lg text-gray-600 max-w-lg">
-          Gali Chat is based on the most advanced AI and NLP technologies available.
+          Zen Chat is based on the most advanced AI and NLP technologies available.
         </p>
         <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/gali/train-chat.png" alt="train advanced GPT" class="mx-auto mt-8"></img>
       </div>
@@ -487,7 +487,7 @@ function Home() {
      {/* Testimonials section */}
 <section className="py-16">
   <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-    <div className="text-sm text-gray-600 mb-2">Gali Testimonials</div>
+    <div className="text-sm text-gray-600 mb-2">Zen Testimonials</div>
     <h2 className="text-4xl font-bold mb-4">What our clients say</h2>
     <p className="text-gray-600 mb-12">See what other people are thinking about our solution.</p>
 
@@ -552,10 +552,10 @@ function Home() {
       
       <div class="relative flex flex-col bg-clip-border rounded-xl bg-white text-gray-700 mb-6">
         <h4 class="block antialiased tracking-normal font-sans text-2xl font-semibold leading-snug text-blue-gray-900 pb-6">
-          What is Gali?
+          What is Zen?
         </h4>
         <p class="block antialiased font-sans text-base leading-relaxed font-normal !text-gray-500">
-          Gali is an advanced, smart AI Agent designed with the latest technology to interact with users by understanding their questions and providing accurate answers. It can comprehend and respond to inquiries in real-time, 24 hours a day, seven days a week.
+          Zen is an advanced, smart AI Agent designed with the latest technology to interact with users by understanding their questions and providing accurate answers. It can comprehend and respond to inquiries in real-time, 24 hours a day, seven days a week.
         </p>
       </div>
 
@@ -565,7 +565,7 @@ function Home() {
           Am I able to become a partner?
         </h4>
         <p class="block antialiased font-sans text-base leading-relaxed font-normal !text-gray-500">
-          We offer an affiliate partnership program open to any individual or business with clients or users who own websites and can integrate GaliChat.
+          We offer an affiliate partnership program open to any individual or business with clients or users who own websites and can integrate ZenChat.
         </p>
       </div>
 
@@ -575,7 +575,7 @@ function Home() {
           How do I add GaliChat to a website?
         </h4>
         <p class="block antialiased font-sans text-base leading-relaxed font-normal !text-gray-500">
-          To add Gali Chat to your website, you need to create an account, customize your AI Agent, and then copy the code snippet provided to your website’s HTML. The AI Agent will then be live on your website, ready to assist your customers.
+          To add Zen Chat to your website, you need to create an account, customize your AI Agent, and then copy the code snippet provided to your website’s HTML. The AI Agent will then be live on your website, ready to assist your customers.
         </p>
       </div>
 
@@ -625,7 +625,7 @@ function Home() {
           Be the first who see the news
         </h3>
         <p className="text-white/80 text-base font-light">
-          Subscribe to our newsletter and get the latest news about Gali. We promise not to spam you.
+          Subscribe to our newsletter and get the latest news about Zen. We promise not to spam you.
         </p>
 
         {/* Form */}

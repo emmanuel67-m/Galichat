@@ -16,9 +16,9 @@ function Discoverpage() {
       </div>
       <h1 class="font-sans antialiased font-extrabold text-3xl md:text-4xl lg:text-5xl text-white mt-6 mb-4 !leading-[1.125]">
         Best AI Agent for Musicians</h1>
-      <p class="font-sans antialiased text-base md:text-lg lg:text-xl text-white/80 font-normal max-w-4xl mx-auto">GaliChat is your 24/7 AI-powered assistant designed to help musicians automate interactions with fans, promote music releases, and boost engagement effortlessly.</p>
+      <p class="font-sans antialiased text-base md:text-lg lg:text-xl text-white/80 font-normal max-w-4xl mx-auto">ZenChat is your 24/7 AI-powered assistant designed to help musicians automate interactions with fans, promote music releases, and boost engagement effortlessly.</p>
       <div class="text-center">
-        <p class="font-sans antialiased text-base text-white mb-10"><strong>Try GaliChat</strong> now!</p>
+        <p class="font-sans antialiased text-base text-white mb-10"><strong>Try ZenChat</strong> now!</p>
         <a href="/chats" class="inline-flex items-center justify-center border align-middle select-none font-sans font-medium text-center transition-all duration-300 ease-in disabled:opacity-50 disabled:shadow-none disabled:cursor-not-allowed text-base rounded-full py-2.5 px-5 shadow-sm bg-neutral-900 border-neutral-900 text-neutral-50 hover:bg-neutral-900 hover:border-neutral-900">Create AI Agent
         </a>
         <a href="https://cal.com/alexandru-paduraru/15min" target="_blank" class="inline-flex items-center justify-center border align-middle select-none font-sans font-medium text-center transition-all duration-300 ease-in disabled:opacity-50 disabled:shadow-none disabled:cursor-not-allowed focus:shadow-none text-base rounded-full py-2.5 px-5 ml-4 shadow-sm hover:shadow-lg bg-white text-neutral-900 border-white hover:bg-neutral-100">
@@ -89,10 +89,10 @@ function Discoverpage() {
 
 <section class="py-16 bg-neutral-950">
   <div class="container mx-auto mb-12 text-center">
-    <p class="font-sans antialiased text-base text-white font-semibold">GaliChat Features</p>
+    <p class="font-sans antialiased text-base text-white font-semibold">ZenChat Features</p>
     <h2 class="font-sans antialiased font-bold text-2xl md:text-3xl lg:text-4xl text-white my-4">
       Effortless AI Engagement for Musicians</h2>
-    <p class="font-sans antialiased text-base md:text-lg max-w-2xl text-white/60 mx-auto">As a musician, connecting with fans and promoting your work can be time-consuming. GaliChat streamlines communication, helping you engage with your audience seamlessly.</p>
+    <p class="font-sans antialiased text-base md:text-lg max-w-2xl text-white/60 mx-auto">As a musician, connecting with fans and promoting your work can be time-consuming. ZenChat streamlines communication, helping you engage with your audience seamlessly.</p>
   </div>
   <div class="container mx-auto grid grid-cols-1 gap-12 md:grid-cols-2">
     <div class="w-full rounded-lg border shadow-sm overflow-hidden bg-background/10 border-transparent shadow-transparent text-center">
@@ -107,7 +107,7 @@ function Discoverpage() {
       <div class="w-full h-max rounded p-0">
         <h6 class="font-sans antialiased font-bold text-base md:text-lg lg:text-xl text-white mb-2">
           Seamless Integration</h6>
-        <p class="font-sans antialiased text-base block text-white/60 max-w-sm mx-auto">No complicated setup—just add a simple script to your website, and GaliChat is ready to interact with your fans instantly.</p>
+        <p class="font-sans antialiased text-base block text-white/60 max-w-sm mx-auto">No complicated setup—just add a simple script to your website, and ZenChat is ready to interact with your fans instantly.</p>
       </div>
     </div>
     <div class="w-full rounded-lg border shadow-sm overflow-hidden bg-background/10 border-transparent shadow-transparent">
@@ -135,7 +135,7 @@ function Discoverpage() {
       <div class="w-full h-max rounded p-0 text-center">
         <h6 class="font-sans antialiased font-bold text-base md:text-lg lg:text-xl text-white mb-2">
           Personalized AI Experience</h6>
-        <p class="font-sans antialiased text-base block text-white/60 max-w-sm mx-auto">Customize GaliChat’s tone and responses to match your brand, ensuring a natural and engaging fan experience.</p>
+        <p class="font-sans antialiased text-base block text-white/60 max-w-sm mx-auto">Customize ZenChat’s tone and responses to match your brand, ensuring a natural and engaging fan experience.</p>
       </div>
     </div>
     <div class="w-full rounded-lg border shadow-sm overflow-hidden bg-background/10 border-transparent shadow-transparent">
@@ -165,7 +165,7 @@ function Discoverpage() {
       </div>
       <h3 class="font-sans antialiased font-extrabold text-2xl md:text-3xl lg:text-4xl text-neutral-950 mb-2">
         Smart AI Recommendations</h3>
-      <p class="font-sans antialiased text-base md:text-lg mb-4 text-neutral-500">GaliChat goes beyond just answering questions—it actively engages website visitors and directs them to your music.
+      <p class="font-sans antialiased text-base md:text-lg mb-4 text-neutral-500">ZenChat goes beyond just answering questions—it actively engages website visitors and directs them to your music.
         </p><div class="flex flex-col space-y-4">
           <div class="flex items-start">
             <div class="rounded-full bg-neutral-800 p-1 mr-3">
@@ -208,7 +208,7 @@ function Discoverpage() {
       </div>
       <h3 class="font-sans antialiased font-extrabold text-2xl md:text-3xl lg:text-4xl text-neutral-950 mb-2">
         Grow Your Fanbase &amp; Increase Sales</h3>
-      <p class="font-sans antialiased text-base md:text-lg mb-4 text-neutral-500">GaliChat helps you turn visitors into dedicated fans by engaging with them in real time, collecting valuable contact details, and guiding them toward supporting your music.
+      <p class="font-sans antialiased text-base md:text-lg mb-4 text-neutral-500">ZenChat helps you turn visitors into dedicated fans by engaging with them in real time, collecting valuable contact details, and guiding them toward supporting your music.
         </p><div class="flex flex-col space-y-4">
           <div class="flex items-start">
             <div class="rounded-full bg-neutral-800 p-1 mr-3">
@@ -253,7 +253,7 @@ function Discoverpage() {
       </div>
       <h3 class="font-sans antialiased font-extrabold text-2xl md:text-3xl lg:text-4xl text-neutral-950 mb-2">
         Share It Everywhere</h3>
-      <p class="font-sans antialiased text-base md:text-lg mb-4 text-neutral-500">Make it easy for fans to connect with you—GaliChat provides a unique shareable link, allowing instant access to your AI assistant across multiple platforms.
+      <p class="font-sans antialiased text-base md:text-lg mb-4 text-neutral-500">Make it easy for fans to connect with you—ZenChat provides a unique shareable link, allowing instant access to your AI assistant across multiple platforms.
         </p><div class="flex flex-col space-y-4">
           <div class="flex items-start">
             <div class="rounded-full bg-neutral-800 p-1 mr-3">
@@ -269,7 +269,7 @@ function Discoverpage() {
                 <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"></path>
               </svg>
             </div>
-            <span class="text-neutral-500"><span class="font-semibold text-neutral-900">Community Engagement:</span> Post your GaliChat link in fan groups, forums, and event pages.</span>
+            <span class="text-neutral-500"><span class="font-semibold text-neutral-900">Community Engagement:</span> Post your ZenChat link in fan groups, forums, and event pages.</span>
           </div>
 
         </div>
@@ -316,10 +316,10 @@ Simply enter your website URL, upload your music details and FAQs, personalize y
 <section className="py-16 bg-neutral-100">
         <div className="h-max rounded p-6 w-full m-0 text-center">
           <h1 className="font-sans antialiased font-extrabold text-2xl md:text-3xl lg:text-4xl text-neutral-950 mb-1 mt-4">
-            What GaliChat Users Are Saying
+            What ZenChat Users Are Saying
           </h1>
           <p className="font-sans antialiased text-base md:text-lg text-neutral-500 max-w-3xl [text-wrap:balance] mx-auto mb-10">
-            See why our clients use GaliChat AI Agents to automate support, boost sales, and provide 24/7 customer
+            See why our clients use ZenChat AI Agents to automate support, boost sales, and provide 24/7 customer
             service.
           </p>
         </div>
@@ -334,7 +334,7 @@ Simply enter your website URL, upload your music details and FAQs, personalize y
               <p className="font-sans antialiased text-base md:text-lg text-current font-semibold">Sarah Chen</p>
               <p className="font-sans antialiased text-base text-neutral-500">Fashion Boutique Owner</p>
               <blockquote className="font-sans antialiased text-base text-neutral-500 md:text-lg mt-4 mb-6 [text-wrap:_balance] mx-auto max-w-lg">
-                "GaliChat AI Agent has transformed how we handle customer inquiries. It recommends perfect outfit
+                "ZenChat AI Agent has transformed how we handle customer inquiries. It recommends perfect outfit
                 combinations, answers sizing and other questions 24/7. Our customer satisfaction has improved
                 significantly while reducing our support workload."
               </blockquote>
@@ -500,7 +500,7 @@ Simply enter your website URL, upload your music details and FAQs, personalize y
               <p className="font-sans antialiased text-base md:text-lg text-current font-semibold">Michael Thompson</p>
               <p className="font-sans antialiased text-base text-neutral-500">Home Decor Store Owner</p>
               <blockquote className="font-sans antialiased text-base text-neutral-500 md:text-lg mt-4 mb-6 [text-wrap:_balance] mx-auto max-w-lg">
-                "Since implementing GaliChat AI Agent, our team has been freed from repetitive customer questions. The
+                "Since implementing ZenChat AI Agent, our team has been freed from repetitive customer questions. The
                 AI Agent handles product specifications and even helps customers design their spaces. It's like having
                 an expert sales team that never sleeps!"
               </blockquote>
@@ -740,10 +740,10 @@ Simply enter your website URL, upload your music details and FAQs, personalize y
       
       <div class="relative flex flex-col bg-clip-border rounded-xl bg-white text-gray-700 mb-6">
         <h4 class="block antialiased tracking-normal font-sans text-2xl font-semibold leading-snug text-blue-gray-900 pb-6">
-          What is Gali?
+          What is Zen?
         </h4>
         <p class="block antialiased font-sans text-base leading-relaxed font-normal !text-gray-500">
-          Gali is an advanced, smart AI Agent designed with the latest technology to interact with users by understanding their questions and providing accurate answers. It can comprehend and respond to inquiries in real-time, 24 hours a day, seven days a week.
+          Zen is an advanced, smart AI Agent designed with the latest technology to interact with users by understanding their questions and providing accurate answers. It can comprehend and respond to inquiries in real-time, 24 hours a day, seven days a week.
         </p>
       </div>
 
@@ -753,17 +753,17 @@ Simply enter your website URL, upload your music details and FAQs, personalize y
           Am I able to become a partner?
         </h4>
         <p class="block antialiased font-sans text-base leading-relaxed font-normal !text-gray-500">
-          We offer an affiliate partnership program open to any individual or business with clients or users who own websites and can integrate GaliChat.
+          We offer an affiliate partnership program open to any individual or business with clients or users who own websites and can integrate ZenChat.
         </p>
       </div>
 
       
       <div class="relative flex flex-col bg-clip-border rounded-xl bg-white text-gray-700 mb-6">
         <h4 class="block antialiased tracking-normal font-sans text-2xl font-semibold leading-snug text-blue-gray-900 pb-6">
-          How do I add GaliChat to a website?
+          How do I add ZenChat to a website?
         </h4>
         <p class="block antialiased font-sans text-base leading-relaxed font-normal !text-gray-500">
-          To add Gali Chat to your website, you need to create an account, customize your AI Agent, and then copy the code snippet provided to your website’s HTML. The AI Agent will then be live on your website, ready to assist your customers.
+          To add Zen Chat to your website, you need to create an account, customize your AI Agent, and then copy the code snippet provided to your website’s HTML. The AI Agent will then be live on your website, ready to assist your customers.
         </p>
       </div>
 

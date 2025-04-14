@@ -10,10 +10,10 @@ function Usecases() {
         <section class="bg-neutral-100 py-12 pt-36 pb-24">
   <div class="container mx-auto px-4 sm:px-6 lg:px-8 text-left">
     <h1 class="text-4xl font-extrabold text-neutral-900 mb-4">
-      Use Cases - GaliChat AI
+      Use Cases - ZenChat AI
     </h1>
     <p class="text-lg text-neutral-500 mb-8 max-w-4xl">
-      Whether you're selling electronics, fashion, home goods, or any other products, GaliChat helps you create and seamlessly integrate AI Agents into your website.
+      Whether you're selling electronics, fashion, home goods, or any other products, ZenChat helps you create and seamlessly integrate AI Agents into your website.
     </p>
     <div class="flex justify-start space-x-2">
       <a href="/chats" target="_blank" class="inline-flex items-center justify-center border align-middle select-none font-sans font-medium text-center transition-all duration-300 ease-in disabled:opacity-50 disabled:shadow-none disabled:cursor-not-allowed text-base rounded-full py-2.5 px-5 shadow-sm bg-neutral-900 border-neutral-900 text-neutral-50 hover:bg-neutral-900 hover:border-neutral-900">

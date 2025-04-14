@@ -20,7 +20,7 @@ function Navbar() {
         <div className="container mx-auto flex items-center justify-between">
           <a className="flex items-center gap-2" href="/">
             <img src="https://www.galichat.com/logo-galichat.png" alt="logo" className="w-8 h-8" />
-            <p className="block antialiased font-sans text-white mr-4 text-sm font-semibold cursor-pointer">GaliChat</p>
+            <p className="block antialiased font-sans text-white mr-4 text-sm font-semibold cursor-pointer">ZenChat</p>
           </a>
 
           <div className="lg:flex hidden items-center gap-2">

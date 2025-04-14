@@ -20,12 +20,12 @@ const Coachespage= () => {
               Best AI Agent for Coaches
             </h1>
             <p className="font-sans antialiased text-base md:text-lg lg:text-xl text-white/80 font-normal max-w-4xl mx-auto">
-              GaliChat is the 24/7 AI support assistant designed to help coaches automate interactions, engage with
+            ZenChat is the 24/7 AI support assistant designed to help coaches automate interactions, engage with
               clients, and grow their business effortlessly.
             </p>
             <div className="text-center">
               <p className="font-sans antialiased text-base text-white mb-10">
-                <strong>Try GaliChat</strong> now!
+                <strong>Try ZenChat</strong> now!
               </p>
               <a
                 href="/chats"
@@ -166,12 +166,12 @@ const Coachespage= () => {
 
       <section className="py-16 bg-neutral-950">
         <div className="container mx-auto mb-12 text-center">
-          <p className="font-sans antialiased text-base text-white font-semibold">GaliChat Features</p>
+          <p className="font-sans antialiased text-base text-white font-semibold">ZenChat Features</p>
           <h2 className="font-sans antialiased font-bold text-2xl md:text-3xl lg:text-4xl text-white my-4">
             Effortless AI Engagement for Coaches
           </h2>
           <p className="font-sans antialiased text-base md:text-lg max-w-2xl text-white/60 mx-auto">
-            Building strong client relationships and promoting your coaching services can be time-consuming. GaliChat
+            Building strong client relationships and promoting your coaching services can be time-consuming. ZenChat
             streamlines client interactions, helping you provide real-time support while focusing on what you do best.
           </p>
         </div>
@@ -200,7 +200,7 @@ const Coachespage= () => {
                 Seamless Integration
               </h6>
               <p className="font-sans antialiased text-base block text-white/60 max-w-sm mx-auto">
-                No complicated setup—just add a simple script to your coaching website, and GaliChat is instantly ready
+                No complicated setup—just add a simple script to your coaching website, and ZenChat is instantly ready
                 to engage with visitors and potential clients.
               </p>
             </div>
@@ -258,7 +258,7 @@ const Coachespage= () => {
                 Personalized AI Experience
               </h6>
               <p className="font-sans antialiased text-base block text-white/60 max-w-sm mx-auto">
-                Customize GaliChat's tone and responses to match your coaching style, creating a natural and engaging
+                Customize ZenChat's tone and responses to match your coaching style, creating a natural and engaging
                 experience for every visitor.
               </p>
             </div>
@@ -287,7 +287,7 @@ const Coachespage= () => {
                 Real-Time Assistance
               </h6>
               <p className="font-sans antialiased text-base block text-white/60 max-w-sm mx-auto">
-                Eliminate wait times—GaliChat delivers instant answers about your coaching services, availability, and
+                Eliminate wait times—ZenChat delivers instant answers about your coaching services, availability, and
                 pricing, keeping potential clients engaged and reducing drop-offs.
               </p>
             </div>
@@ -324,7 +324,7 @@ const Coachespage= () => {
               Smart AI Recommendations
             </h3>
             <p className="font-sans antialiased text-base md:text-lg mb-4 text-neutral-500">
-              GaliChat not only answers questions but also engages visitors and encourages them to book sessions or join
+            ZenChat not only answers questions but also engages visitors and encourages them to book sessions or join
               your coaching programs.
             </p>
             <div className="flex flex-col space-y-4">
@@ -344,7 +344,7 @@ const Coachespage= () => {
                   </svg>
                 </div>
                 <span className="text-neutral-500">
-                  <span className="font-semibold text-neutral-900">Promote Coaching Events & Webinars:</span> GaliChat
+                  <span className="font-semibold text-neutral-900">Promote Coaching Events & Webinars:</span> ZenChat
                   informs visitors about upcoming coaching sessions, live Q&As, and workshops, encouraging
                   participation.
                 </span>
@@ -445,7 +445,7 @@ const Coachespage= () => {
                   </svg>
                 </div>
                 <span className="text-neutral-500">
-                  <span className="font-semibold text-neutral-900">Automated Lead Collection: </span> GaliChat captures
+                  <span className="font-semibold text-neutral-900">Automated Lead Collection: </span> ZenChat captures
                   visitor details like names and emails, making it easy to follow up with newsletters, special offers,
                   or coaching updates.
                 </span>
@@ -487,7 +487,7 @@ const Coachespage= () => {
                 </div>
                 <span className="text-neutral-500">
                   <span className="font-semibold text-neutral-900">Targeted Upselling & Membership Growth: </span>{" "}
-                  GaliChat can recommend premium coaching packages, exclusive memberships, or additional resources to
+                  ZenChat can recommend premium coaching packages, exclusive memberships, or additional resources to
                   maximize your revenue.
                 </span>
               </div>
@@ -536,7 +536,7 @@ const Coachespage= () => {
               Share It With Your Community
             </h3>
             <p className="font-sans antialiased text-base md:text-lg mb-4 text-neutral-500">
-              GaliChat makes it effortless to connect with your audience—anywhere.
+            ZenChat makes it effortless to connect with your audience—anywhere.
             </p>
             <div className="flex flex-col space-y-4">
               <div className="flex items-start">
@@ -556,7 +556,7 @@ const Coachespage= () => {
                 </div>
                 <span className="text-neutral-500">
                   <span className="font-semibold text-neutral-900">Instant Access, No Installation:</span> Share your
-                  GaliChat link on social media, your website, or in newsletters so clients can interact with your AI
+                  ZenChat link on social media, your website, or in newsletters so clients can interact with your AI
                   Agent anytime.
                 </span>
               </div>
@@ -597,7 +597,7 @@ const Coachespage= () => {
                   </svg>
                 </div>
                 <span className="text-neutral-500">
-                  <span className="font-semibold text-neutral-900">Effortless Community Engagement:</span> Use GaliChat
+                  <span className="font-semibold text-neutral-900">Effortless Community Engagement:</span> Use ZenChat
                   in coaching groups, mastermind communities, and online forums to keep your audience informed and
                   engaged.
                 </span>
@@ -666,7 +666,7 @@ const Coachespage= () => {
       <section className="py-16 bg-neutral-100">
         <div className="h-max rounded p-6 w-full m-0 text-center">
           <h1 className="font-sans antialiased font-extrabold text-2xl md:text-3xl lg:text-4xl text-neutral-950 mb-1 mt-4">
-            What GaliChat Users Are Saying
+            What ZenChat Users Are Saying
           </h1>
           <p className="font-sans antialiased text-base md:text-lg text-neutral-500 max-w-3xl [text-wrap:balance] mx-auto mb-10">
             See why our clients use GaliChat AI Agents to automate support, boost sales, and provide 24/7 customer
@@ -684,7 +684,7 @@ const Coachespage= () => {
               <p className="font-sans antialiased text-base md:text-lg text-current font-semibold">Sarah Chen</p>
               <p className="font-sans antialiased text-base text-neutral-500">Fashion Boutique Owner</p>
               <blockquote className="font-sans antialiased text-base text-neutral-500 md:text-lg mt-4 mb-6 [text-wrap:_balance] mx-auto max-w-lg">
-                "GaliChat AI Agent has transformed how we handle customer inquiries. It recommends perfect outfit
+                "ZenChat AI Agent has transformed how we handle customer inquiries. It recommends perfect outfit
                 combinations, answers sizing and other questions 24/7. Our customer satisfaction has improved
                 significantly while reducing our support workload."
               </blockquote>
@@ -850,7 +850,7 @@ const Coachespage= () => {
               <p className="font-sans antialiased text-base md:text-lg text-current font-semibold">Michael Thompson</p>
               <p className="font-sans antialiased text-base text-neutral-500">Home Decor Store Owner</p>
               <blockquote className="font-sans antialiased text-base text-neutral-500 md:text-lg mt-4 mb-6 [text-wrap:_balance] mx-auto max-w-lg">
-                "Since implementing GaliChat AI Agent, our team has been freed from repetitive customer questions. The
+                "Since implementing ZenChat AI Agent, our team has been freed from repetitive customer questions. The
                 AI Agent handles product specifications and even helps customers design their spaces. It's like having
                 an expert sales team that never sleeps!"
               </blockquote>
@@ -1160,12 +1160,12 @@ const Coachespage= () => {
             <div className="relative flex flex-col bg-clip-border rounded-xl bg-transparent text-neutral-700 shadow-none">
               <div className="relative bg-clip-border mt-4 rounded-xl overflow-hidden text-neutral-700 mx-0">
                 <h4 className="block antialiased tracking-normal font-sans text-2xl font-semibold leading-snug text-neutral-900 pb-6">
-                  What is Gali?
+                  What is Zen?
                 </h4>
               </div>
               <div className="p-6 px-0 pt-0">
                 <p className="block antialiased font-sans text-base leading-relaxed text-inherit font-normal !text-neutral-500">
-                  Gali is an advanced, smart AI Agent designed with the latest technology to interact with users by
+                  Zen is an advanced, smart AI Agent designed with the latest technology to interact with users by
                   understanding their questions and providing accurate answers. It can comprehend and respond to
                   inquiries in real-time, 24 hours a day, seven days a week.
                 </p>
@@ -1174,12 +1174,12 @@ const Coachespage= () => {
             <div className="relative flex flex-col bg-clip-border rounded-xl bg-transparent text-neutral-700 shadow-none">
               <div className="relative bg-clip-border mt-4 rounded-xl overflow-hidden text-neutral-700 mx-0">
                 <h4 className="block antialiased tracking-normal font-sans text-2xl font-semibold leading-snug text-neutral-900 pb-6">
-                  How do I add Gali Chat to my website?
+                  How do I add Zen Chat to my website?
                 </h4>
               </div>
               <div className="p-6 px-0 pt-0">
                 <p className="block antialiased font-sans text-base leading-relaxed text-inherit font-normal !text-neutral-500">
-                  To add Gali Chat to your website, you need to create an account, customize your AI Agent, and then
+                  To add Zen Chat to your website, you need to create an account, customize your AI Agent, and then
                   copy the code snippet provided to your website's HTML. The AI Agent will then be live on your website,
                   ready to assist your customers.
                 </p>
@@ -1188,12 +1188,12 @@ const Coachespage= () => {
             <div className="relative flex flex-col bg-clip-border rounded-xl bg-transparent text-neutral-700 shadow-none">
               <div className="relative bg-clip-border mt-4 rounded-xl overflow-hidden text-neutral-700 mx-0">
                 <h4 className="block antialiased tracking-normal font-sans text-2xl font-semibold leading-snug text-neutral-900 pb-6">
-                  Can I use Gali for free?
+                  Can I use Zen for free?
                 </h4>
               </div>
               <div className="p-6 px-0 pt-0">
                 <p className="block antialiased font-sans text-base leading-relaxed text-inherit font-normal !text-neutral-500">
-                  Yes, Gali offers a free plan that includes all the basic features you need to get started but has
+                  Yes, Zen offers a free plan that includes all the basic features you need to get started but has
                   limited functionalities. You can upgrade to a paid plan at any time to access more advanced features.
                 </p>
               </div>

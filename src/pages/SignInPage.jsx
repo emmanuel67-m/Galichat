@@ -49,7 +49,7 @@ const SignInPage = () => {
           <div className="flex flex-col items-center justify-end">
             <h1 className="text-3xl font-bold mb-3 text-white">Welcome to the future</h1>
             <p className="block antialiased font-sans font-medium text-white text-lg">Your Ultimate 24/7 AI-Powered Customer Support Assistant</p>
-            <p className="block antialiased font-sans mt-7 text-6xl font-bold text-white">GaliChat</p>
+            <p className="block antialiased font-sans mt-7 text-6xl font-bold text-white">ZenChat</p>
             <div className="group bg-gray-900/70 border w-fill mt-40 relative m-4 p-4 pr-1 py-1 rounded-xl lg:p-6 border-gray-800">
               <div className="flex items-center justify-between">
                 <div className="flex flex-col">

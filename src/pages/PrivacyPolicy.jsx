@@ -17,15 +17,13 @@ function Discoverpage() {
                   </div>
                   </div>
                   </div>
-       <section className="">
-           
-       </section>
+       
 
 
 <div class="block md:flex justify-center container mx-auto p-8 relative z-40 bg-white border border-gray-300 rounded-lg"><div class="md:w-1/4 mb-8 md:mb-0 mr-24"><p class="block antialiased font-sans text-base leading-relaxed text-left w-full cursor-pointer font-normal text-gray-600 hover:text-gray-900 my-2"><a href="#privacy-policy-introduction">Privacy Policy Introduction</a></p><p class="block antialiased font-sans text-base leading-relaxed text-left w-full cursor-pointer font-normal text-gray-600 hover:text-gray-900 my-2"><a href="#definition-according-to-the-gdpr">Definition according to the GDPR</a></p><p class="block antialiased font-sans text-base leading-relaxed text-left w-full cursor-pointer font-normal text-gray-600 hover:text-gray-900 my-2"><a href="#what-types-of-data-we-collect">What types of data we collect</a></p><p class="block antialiased font-sans text-base leading-relaxed text-left w-full cursor-pointer font-normal text-gray-600 hover:text-gray-900 my-2"><a href="#how-we-collect-your-personal-data">How we collect your personal data</a></p><p class="block antialiased font-sans text-base leading-relaxed text-left w-full cursor-pointer font-normal text-gray-600 hover:text-gray-900 my-2"><a href="#why-we-collect-your-personal-data">Why we collect your personal data</a></p><p class="block antialiased font-sans text-base leading-relaxed text-left w-full cursor-pointer font-normal text-gray-600 hover:text-gray-900 my-2"><a href="#any-disclosure-of-your-personal-data-to-third-parties">Any disclosure of your personal data to third parties</a></p><p class="block antialiased font-sans text-base leading-relaxed text-left w-full cursor-pointer font-normal text-gray-600 hover:text-gray-900 my-2"><a href="#which-are-your-rights">Which are your rights</a></p><p class="block antialiased font-sans text-base leading-relaxed text-left w-full cursor-pointer font-normal text-gray-600 hover:text-gray-900 my-2"><a href="#our-security-precautions-to-protect-you">Our security precautions to protect you</a></p><p class="block antialiased font-sans text-base leading-relaxed text-left w-full cursor-pointer font-normal text-gray-600 hover:text-gray-900 my-2"><a href="#the-payment-on-our-website">The Payment on our website</a></p><p class="block antialiased font-sans text-base leading-relaxed text-left w-full cursor-pointer font-normal text-gray-600 hover:text-gray-900 my-2"><a href="#external-links">External links</a></p><p class="block antialiased font-sans text-base leading-relaxed text-left w-full cursor-pointer font-normal text-gray-600 hover:text-gray-900 my-2"><a href="#changes-to-the-privacy-policy">Changes to the privacy policy</a></p><p class="block antialiased font-sans text-base leading-relaxed text-left w-full cursor-pointer font-normal text-gray-600 hover:text-gray-900 my-2"><a href="#information-concerning-data-protection-supervisory-authority">Information concerning Data Protection Supervisory Authority</a></p></div><div class="md:w-3/4"><div class="prose"><h4 id="last-update-22072024">Last update: 22.07.2024</h4>
 <h2 id="privacy-policy-introduction">Privacy Policy Introduction</h2>
-<p>Welcome to Gali!</p>
-<p>Your privacy is critically important to us. Gali is committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy or our practices with regards to your personal information, please contact us at email address <a href="mailto:hello@galichat.com">hello@galichat.com</a>.</p>
+<p>Welcome to Zen!</p>
+<p>Your privacy is critically important to us. Zen is committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy or our practices with regards to your personal information, please contact us at email address <a href="mailto:hello@galichat.com">hello@galichat.com</a>.</p>
 <p>The following Privacy Notice was designed for <a href="https://www.galichat.com/">www.galichat.com</a> and it will be reviewed and updated periodically according to all applicable laws and regulations.</p>
 <p>Please read this Privacy Policy before using our Service (website, widget, API). By engaging with our Service, you consent to the processing of your information as described in this policy. This Privacy Policy utilizes terms that are defined within it, which hold the same meaning as those outlined in our Terms and Conditions.</p>
 <p>The use of our Service is also governed by our Terms and Conditions (“Terms”), which, when combined with this Privacy Policy, form a binding agreement between you and us.</p>
@@ -38,10 +36,10 @@ function Discoverpage() {
 <p>Website -  representsto the collection of web pages accessible through  <a href="https://www.galichat.com/">www.galichat.com</a></p>
 </li>
 <li>
-<p>Widget -  represents the Gali Chat widget, which can be added to a User's website for integration.</p>
+<p>Widget -  represents the Zen Chat widget, which can be added to a User's website for integration.</p>
 </li>
 <li>
-<p>API -  represents the Gali application programming interface, designed for integration with the User's systems.</p>
+<p>API -  represents the Zen application programming interface, designed for integration with the User's systems.</p>
 </li>
 <li>
 <p>Personal data  - represents any information relating to an identified or identifiable natural person (‘data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;</p>
@@ -82,7 +80,7 @@ function Discoverpage() {
 <li><strong>Tracking &amp; Cookies Data:</strong> We use cookies and similar tracking technologies to track the activity on our Service and hold certain information. Cookies are files with a small amount of data which may include an anonymous unique identifier.  However, you have the option to configure your browser to reject all cookies or to alert you when a cookie is sent.</li>
 </ul>
 <h2 id="how-we-collect-your-personal-data">How we collect your personal data</h2>
-<p>Gali may collect your personal data in two ways:</p>
+<p>Zen may collect your personal data in two ways:</p>
 <ol>
 <li>When you voluntarily provide such information to us by filling in the available fields - e.g, for creating your account, for contacting us, for registering to our newsletter, and so forth.</li>
 </ol>
@@ -99,7 +97,7 @@ function Discoverpage() {
 <li>your billing and payment information for invoicing and receiving your payment will be kept according to the regulation applicable to our Payment Processor and by us for 10 years;</li>
 </ul>
 <h2 id="why-we-collect-your-personal-data">Why we collect your personal data</h2>
-<p>Gali uses the collected Personal Data for various purposes:</p>
+<p>Zen uses the collected Personal Data for various purposes:</p>
 <ul>
 <li>Provide, operate, and maintain our website</li>
 <li>Improve, personalize, and expand our website</li>
@@ -220,10 +218,10 @@ function Discoverpage() {
       
       <div class="relative flex flex-col bg-clip-border rounded-xl bg-white text-gray-700 mb-6">
         <h4 class="block antialiased tracking-normal font-sans text-2xl font-semibold leading-snug text-blue-gray-900 pb-6">
-          What is Gali?
+          What is Zen?
         </h4>
         <p class="block antialiased font-sans text-base leading-relaxed font-normal !text-gray-500">
-          Gali is an advanced, smart AI Agent designed with the latest technology to interact with users by understanding their questions and providing accurate answers. It can comprehend and respond to inquiries in real-time, 24 hours a day, seven days a week.
+          Zen is an advanced, smart AI Agent designed with the latest technology to interact with users by understanding their questions and providing accurate answers. It can comprehend and respond to inquiries in real-time, 24 hours a day, seven days a week.
         </p>
       </div>
 
@@ -240,10 +238,10 @@ function Discoverpage() {
       
       <div class="relative flex flex-col bg-clip-border rounded-xl bg-white text-gray-700 mb-6">
         <h4 class="block antialiased tracking-normal font-sans text-2xl font-semibold leading-snug text-blue-gray-900 pb-6">
-          How do I add GaliChat to a website?
+          How do I add ZenChat to a website?
         </h4>
         <p class="block antialiased font-sans text-base leading-relaxed font-normal !text-gray-500">
-          To add Gali Chat to your website, you need to create an account, customize your AI Agent, and then copy the code snippet provided to your website’s HTML. The AI Agent will then be live on your website, ready to assist your customers.
+          To add Zen Chat to your website, you need to create an account, customize your AI Agent, and then copy the code snippet provided to your website’s HTML. The AI Agent will then be live on your website, ready to assist your customers.
         </p>
       </div>
 
