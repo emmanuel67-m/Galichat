@@ -1,0 +1,25 @@
+/* 
+This is a partial fix for line 2085 of your index.css file.
+Replace the line containing "&amp" with the proper ampersand character "&"
+
+For example, if you have something like:
+.some-class {
+  content: "&amp";
+}
+
+Change it to:
+.some-class {
+  content: "&";
+}
+
+Or if it's in a selector like:
+.class&amp:hover {
+  /* styles */
+}
+
+Change it to:
+.class&:hover {
+  /* styles */
+}
+*/
+
