@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 import Homepage from "./pages/Homepage";
-import SigninPage from './pages/signinpage';
+import SignInPage from './pages/SignInPage';
 import Affiliatespage from './pages/Affiliatespage';
 import Pricingpage from './pages/Pricingpage';
 import Discoverpage from './pages/Discoverpage'
@@ -30,7 +30,7 @@ function App() {
         {/* Define routes for different pages */}
         <Routes>
           <Route path="/" element={<Homepage />} />
-          <Route path="/signin" element={<SigninPage />} />
+          <Route path="/signin" element={<SignInPage />} />
           <Route path="/affiliates" element={<Affiliatespage />} />
           <Route path="/pricing" element={<Pricingpage />} />
           <Route path="/discover" element={< Discoverpage/>} />
